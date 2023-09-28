@@ -1,0 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital@1&family=Dela+Gothic+One&display=swap');
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+.h1{
+    text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Dela Gothic One', cursive;
+
+}
+
+.img {
+    width: 30%;
+    float: left;
+}
+
+.img1{
+    width: 30%;
+    float: right;
+}
+
+.h2{
+    text-align: center;
+}
+
+
